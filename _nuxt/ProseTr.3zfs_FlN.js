@@ -1,0 +1,1 @@
+import{k as t,b as n,c,a3 as o}from"./entry.LUJTMDX0.js";const r={};function a(e,s){return n(),c("tr",null,[o(e.$slots,"default",{},void 0,!0)])}const f=t(r,[["render",a],["__scopeId","data-v-8faf5c21"]]);export{f as default};
